@@ -17,4 +17,5 @@ When a new image is uploaded to a **source S3 bucket**, the event triggers a **L
 5. Logs and metrics are tracked in **Amazon CloudWatch**.
 
 **System Diagram:**
+
 ![Uploading system system imageResize.png…]()
