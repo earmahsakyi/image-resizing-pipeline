@@ -18,4 +18,5 @@ When a new image is uploaded to a **source S3 bucket**, the event triggers a **L
 
 **System Diagram:**
 
-![Uploading system system imageResize.png…]()
+![system system imageResize](https://github.com/user-attachments/assets/14f30c6a-fac8-4511-aefd-4ad4eeecf272)
+
